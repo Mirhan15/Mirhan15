@@ -1,96 +1,70 @@
-# Hi 👋, I'm Mirhan Maulana
+<div align="center">
+
+# 👋 Hi, I'm Mirhan Maulana
 
 ### 💻 Fullstack Developer
 
-I build web applications from scratch, focusing on practical, scalable, and user-friendly solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+Application+Developer;Laravel+%7C+Node.js+%7C+React+%7C+Vue;Building+Web+Apps+from+Scratch;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Improve" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mirhan15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Fullstack Developer focused on Web Development
-* 🔧 Building applications from frontend to backend
-* 🗄️ Experienced with database design and REST APIs
-* 🐳 Familiar with Docker and application deployment
-* 🌱 Continuously learning and improving my development skills
+I'm a **Fullstack Developer** focused on building web applications from scratch.
+
+I enjoy turning ideas and business requirements into practical, scalable, and user-friendly applications.
+
+* 💻 Fullstack Web Development
+* ⚙️ Backend & REST API Development
+* 🎨 Frontend Development
+* 🗄️ Database Design & Management
+* 🐳 Docker & Application Deployment
+* 🔧 System Integration
+* 📚 Always learning and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,go,html,css" />
+</p>
 
-### Frameworks & Libraries
+### ⚡ Frameworks & Libraries
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vue,vite" />
+</p>
 
-### Tools & Technologies
+### 🗄️ Database & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+</p>
 
----
+### 🔧 Tools
 
-## 🚀 Featured Projects
-
-### 🏢 Corporate Website
-
-Corporate web application for a logistics company.
-
-**Tech:** Laravel • MySQL • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+</p>
 
 ---
 
-### 📦 Warehouse Dashboard
-
-Web-based warehouse dashboard for monitoring and managing operational data.
-
-**Tech:** Vue.js • Node.js • MySQL • Docker
-
----
-
-### 📊 Survey & Audit System
-
-Web application for managing survey and audit processes.
-
-**Tech:** React • REST API • MySQL
-
----
-
-### 📋 Inventory Management System
-
-Web application for managing stock and orders.
-
-**Tech:** Laravel • MySQL • JavaScript
-
----
-
-## 🌐 Portfolio
-
-Check out my portfolio:
-
-**[mirhanmaulana.netlify.app](https://mirhanmaulana.netlify.app/)**
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mirhan15&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirhan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhan15&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhan15&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -100,7 +74,93 @@ Check out my portfolio:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mirhan15&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mirhan15&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirhan15&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Corporate Logistics Website
+
+Corporate web application for a logistics company.
+
+**Tech Stack**
+
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+---
+
+### 📦 Warehouse Management Dashboard
+
+Web-based dashboard for monitoring and managing warehouse operational data.
+
+**Tech Stack**
+
+`Vue.js` `Node.js` `MySQL` `Docker`
+
+---
+
+### 📊 Survey & Audit System
+
+Web application for managing survey, audit, findings, recommendations, and approval workflows.
+
+**Tech Stack**
+
+`React` `MUI` `Redux Toolkit` `Vite` `REST API`
+
+---
+
+### 📋 Inventory Management System
+
+Web application for managing inventory, stock movements, and orders.
+
+**Tech Stack**
+
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mirhan15/Mirhan15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+<a href="https://mirhanmaulana.netlify.app">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-36BCF7?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+### "Build. Learn. Improve. Repeat. 🚀"
 
 </div>
 
@@ -108,14 +168,22 @@ Check out my portfolio:
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:** [mirhanmaulana.netlify.app](https://mirhanmaulana.netlify.app/)
+<div align="center">
 
-🐙 **GitHub:** [github.com/Mirhan15](https://github.com/Mirhan15)
+<a href="https://github.com/Mirhan15">
+<img src="https://img.shields.io/badge/GitHub-Mirhan15-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://mirhanmaulana.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Mirhan%20Maulana-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Improve. Repeat. 🚀"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
 
 </div>
