@@ -10,23 +10,13 @@
 
 ---
 
-### 🧭 About Me
-
-- 🔭 Currently building web applications end-to-end — frontend, backend, and deployment
-- 🛠️ Working mainly with **Laravel**, **Node.js**, **React**, and **Vue**
-- 🌱 Always exploring cleaner architectures and better developer workflows
-- 📍 Based in Indonesia
-- ⚡ Fun fact: I like my code the way I like my mountain trails — well planned, no shortcuts
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:mirhanmaulana15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/MirhanMaulana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="[https://instagram.com/yourprofile](https://www.instagram.com/mirhan.maulana?stkn=NWt5Mnp3cTZteGhn&utm_source=qr)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/mirhan.maulana"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
 
@@ -78,33 +68,11 @@ I enjoy turning ideas and business requirements into practical, scalable, and us
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirhan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhan15&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mirhan15&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirhan15&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -149,16 +117,6 @@ Web application for managing inventory, stock movements, and orders.
 **Tech Stack**
 
 `Laravel` `PHP` `MySQL` `JavaScript`
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mirhan15/Mirhan15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
